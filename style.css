@@ -8,6 +8,7 @@ body{
     color: #1b2130;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
+
 /*header */
 header{
     background-color: #e5e5e5;
@@ -63,6 +64,7 @@ div{
     overflow: hidden;
     
 }
+/*skills part*/
 .skills{
     border-top: 20px;
     padding:20;
@@ -70,6 +72,8 @@ div{
 ul{
     list-style-type: none;
 }
+
+/*contact form*/
 form{
     float: left;
     text-align: center;
@@ -87,6 +91,8 @@ form button{
     border: 2px solid white;
     padding: 2px;
 }
+
+/*footer*/
 footer{
     text-align: center;
     margin-top: 30px;
